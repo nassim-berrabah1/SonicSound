@@ -1,4 +1,4 @@
-# 🎵 SonicCore — Système de supervision audio multi-sites
+# 🎵 SonicSound — Système de supervision audio multi-sites
 
 > Plateforme de supervision et de diffusion musicale continue pour environnements multi-sites (entreprises, collectivités, campus, gares...), avec gestion des alertes, synchronisation des playlists et tableau de bord en temps réel.
 
@@ -92,7 +92,7 @@ SonicCore
 ## 📁 Structure du repo
 
 ```
-📦 soniccore
+📦 sonicsound
  ┣ 📂 back/          ← API Laravel
  ┣ 📂 front/         ← Application Vue.js
  ┣ 📂 wordpress/     ← Export / thème du site vitrine
